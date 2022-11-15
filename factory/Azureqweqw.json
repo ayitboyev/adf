@@ -1,0 +1,9 @@
+{
+	"name": "Azureqweqw",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "45735caf-f164-4cec-978d-e73aa70e0168",
+		"tenantId": "4d22add7-83f6-4ff3-9fd6-c2bc174a0840"
+	}
+}
